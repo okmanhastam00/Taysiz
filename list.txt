@@ -14,3 +14,5 @@ vless://bbec7fa0-45fe-43e0-bce4-53c04be6357c@212.192.14.250:45103?security=reali
 vless://e51ce6f7-8b30-4092-98f6-6a38d075e061@145.249.109.122:57520?security=reality&encryption=none&pbk=Cdz1K7TdcvZOqo_p-VOSEmD-pKIJhm4E41jhUZiZtQs&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=yandex.ru&sid=5866cfebc4489d12#rasoul8
 
 vless://2fd9e52b-ace0-4497-9ee6-52a37a887263@87.120.219.63:44677?security=reality&encryption=none&pbk=kaznZ9M9yVU8NLbMFktN972ZV55-mHp221J4Hihw41g&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=yandex.ru&sid=8af78a97a7265051#rasoul9
+
+vless://94d42c37-a88c-cfda-f89d-4d1e7c0f3d96@ir.keyvipfast.ir:4040?security=none&type=tcp&headerType=http&encryption=none&path=%2Fpath&host=#%D8%A7%DB%8C%D9%86%D8%AA%D8%B1%D9%86%D8%AA%20%D9%85%D9%84%DB%8C%20%281%29
